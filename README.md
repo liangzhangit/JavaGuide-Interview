@@ -1,5 +1,9 @@
 # JavaGuide面试突击版
 
+原创不易，你的认可就是我前进路上最大的动力。欢迎关注我的公众号: **JavaGuide** 获取更多优质原创内容！
+
+如果文章有任何需要改善和完善的地方，欢迎在评论区指出，共同进步！
+
 - 在线阅读地址：https://snailclimb.gitee.io/javaguide-interview/#/
 - Github：https://github.com/Snailclimb/JavaGuide-Interview
 - 码云：https://gitee.com/SnailClimb/JavaGuide-Interview
@@ -12,7 +16,7 @@
 
 **《JavaGuide 面试突击版》** 预计一个月左右会有一次内容更新和完善，大家在我的公众号 **JavaGuide** 后台回复**“面试突击”** 即可获取最新版！另外，为了保证自己的辛勤劳动不被恶意盗版滥用，所以我添加了水印并且在一些内容注明版权，希望大家理解。
 
-![我的公众号](https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-6/167598cd2e17b8ec.png)
+![我的公众号](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-8/167598cd2e17b8ec.png)
 
 ## 如何贡献
 
@@ -47,5 +51,5 @@ JavaGuide 目前已经 70k+ Star ，目前已经是所有 Java 类别项目中 S
 
 点击这里查看：[知识星球历史优质文章](./知识星球.md)。
 
-![](https://imgkr.cn-bj.ufileos.com/7b7aae75-7507-46c8-9bd3-7a37ffaf40d0.png)
+![](https://guide-blog-images.oss-cn-shenzhen.aliyuncs.com/2020-8/11327ec2-40c3-4842-9ce4-48d42c84d089.png)
 
